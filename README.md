@@ -8,8 +8,9 @@ node version 20.19.4
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Nodemon](https://nodemon.io/) (hot reload)
+- [Nodemon](https://nodemon.io/) + [tsx](https://tsx.is/) (hot reload)
 - [ESLint](https://eslint.org/) + [Prettier](https://prettier.io/) (code style)
+- [esbuild](https://esbuild.github.io/) (build code)
 
 ## 📂 Cấu trúc thư mục
 ```
